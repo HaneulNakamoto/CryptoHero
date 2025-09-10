@@ -1,10 +1,22 @@
 # 🕹️ Crypto Hero
 
-![Solana](https://img.shields.io/badge/Solana-Web3-blueviolet?logo=solana)  
-![Vite](https://img.shields.io/badge/Vite-Frontend-yellow?logo=vite)  
-![React](https://img.shields.io/badge/React-JS-61dafb?logo=react)  
-![Phaser](https://img.shields.io/badge/GameEngine-Phaser3-orange?logo=javascript)  
-![License](https://img.shields.io/badge/License-MIT-green)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Phaser](https://img.shields.io/badge/Phaser-92A8D1?style=for-the-badge&logo=phaser&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Built with Dappit](https://img.shields.io/badge/Built%20with-Dappit-0A0A0A?style=for-the-badge&logo=robot&logoColor=white)
+![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+
+
+---
+
+## ⚡ Build & Deployment
+This project is **built with [Dappit.io](https://dappit.io/)** 🛠️, an AI-powered platform for generating Web3 applications and Solana integrations.  
+The final build is then **deployed on [Vercel](https://vercel.com/)** 🚀 for fast, reliable, and mobile-first PWA hosting.  
+
+🔗 Live Demo: [https://crypto-hero.vercel.app](https://crypto-hero.vercel.app) <!-- ganti dengan link deploy kamu -->
+
 
 ---
 

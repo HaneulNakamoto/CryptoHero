@@ -15,7 +15,7 @@
 This project is **built with [Dappit.io](https://dappit.io/)** 🛠️, an AI-powered platform for generating Web3 applications and Solana integrations.  
 The final build is then **deployed on [Vercel](https://vercel.com/)** 🚀 for fast, reliable, and mobile-first PWA hosting.  
 
-🔗 Live Demo: [https://crypto-hero.vercel.app](https://crypto-hero.vercel.app) <!-- ganti dengan link deploy kamu -->
+🔗 Live Demo: [https://crypto-hero.vercel.app](https://crypto-hero-seven.vercel.app/) <!-- ganti dengan link deploy kamu -->
 
 
 ---
